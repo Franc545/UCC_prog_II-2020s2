@@ -30,3 +30,15 @@ Proceso ejercicio_pseudocodo_en_pseint
 	
 	
 FinProceso
+
+
+
+
+
+
+
+*** Ejecución Iniciada. ***
+El valor de c es:39
+El valor de k es:3
+El valor de l es:24
+*** Ejecución Finalizada. ***
