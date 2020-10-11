@@ -4,19 +4,10 @@ Proceso sin_titulo
 	a <- 3;
 	m <- 8;
 	
-	p <- p+m;
-	a <- a+m;
-	m <- p+a;
+	p <- 5*3 -8;
+	a <- 3*3 -8;
 	
-	Definir c, k, l Como Real
-	c <- p;  k <- a; l <- m;
-	c <- p-m;
-	c <- c/7;
-	c <- p*3;
-	k <- a-m/3;
-	
-	Escribir "El valor de c es:",c;
-	Escribir "El valor de k es:",k;
-	Escribir "El valor de l es:",l;
-	
+	Escribir "El valor de p es:",p;
+	Escribir "El valor de a es:",a;
+	Escribir "El valor de m es:",m;
 FinProceso
