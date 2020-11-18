@@ -140,3 +140,38 @@ public class ProgramaSelectivo05 {
 		}
 	}
 }
+
+
+
+
+
+
+
+
+Resultado de consola:
+
+
+
+..............
+................
+..................
+........................
+...Franz Erick Landazuri.
+....Fecha:2020/31/10.....
+.........................
+...Programa Selectivo05..
+.....................
+seleccione el servicio
+[1] Corriente
+[2] Ejecutivo
+2
+Ingrese la ruta
+[1] Ruta 1
+[2] Ruta 2
+[3] Ruta 3
+[4] Ruta 4
+2
+Valor del servicio :$300
+Para el mantenimiento:-$45
+Para el salario del conductor: -$75
+Total para utilidades: $180
